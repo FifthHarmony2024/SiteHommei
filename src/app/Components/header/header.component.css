@@ -1,14 +1,14 @@
 #header1{
-  background-image:linear-gradient(to bottom, #4E40A2, #4E40A2, #9485e9, #7B68EE);
-  height: 500px;
+  background-image:linear-gradient(to right, #4E40A2, #4E40A2, #9485e9, #7B68EE);
+  height: 40vw;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
 }
 .name1{
   width: 70vw;
-  margin-bottom: 80vw;
   margin-right: 14vw;
+  margin-top: 10vw;
 }
 
 #header2{

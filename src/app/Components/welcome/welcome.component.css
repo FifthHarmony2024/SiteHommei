@@ -1,44 +1,15 @@
 #welcome1{
   background-image:linear-gradient(to right, #4E40A2, #4E40A2, #9485e9, #7B68EE);
-  height: 170px;
+  height: 100vw;
   display: flex;
   justify-content: space-between;
 }
-.name-w1{
-  width: 70px;
-
-}
-.text-welcome1{
-  width: 180px;
-  height: 80px;
-  margin-right: 160px;
-  font-size: 2vw;
-  line-height: 12px;
+.title{
+  width: 80vw;
+  height: 20vw;
+  margin-left: 6vw;
   color: white;
-  text-align: justify;
 }
-.container-img
-{
-  height: 3vh;
-}
-.text-welcome, .container-img{
-  margin-left: 4vw;
-  margin-bottom: 10vw;
-}
-.name-w1
-{
-  margin-top: 2vw;
-  width: 30%;
-}
-#button-w1{
-  color: white ;
-  background-color: #FE914E;
-  width: 13vw;
-  height: 3.7vw;
-  position: absolute;
-  border-radius: 20vw;
-  border: 0px solid ;
-  font-size: 2vw;
-  transition: 1s;
-  
+.title, h1{
+  font-weight: 400;
 }
