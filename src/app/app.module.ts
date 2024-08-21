@@ -7,13 +7,15 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { EmpresaComponent } from './Pages/empresa/empresa.component';
 import { HeaderComponent } from './Components/header/header.component';
 import { WelcomeComponent } from './Components/welcome/welcome.component';
+import { DescriptionComponent } from './Components/description/description.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     EmpresaComponent,
     HeaderComponent,
-    WelcomeComponent
+    WelcomeComponent,
+    DescriptionComponent
   ],
   imports: [
     BrowserModule,

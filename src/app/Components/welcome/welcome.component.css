@@ -9,9 +9,13 @@
   height: 20vw;
   margin-left: 6vw;
   color: white;
+  margin-top: 2vw;
 }
 .title1, h1{
+  font-size: 6.7vw;
   font-weight:400;
+  line-height: 7.8vw;
+
 }
 
 .text-w1{
