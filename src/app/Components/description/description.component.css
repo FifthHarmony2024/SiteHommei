@@ -1,5 +1,4 @@
 #descrip1{
-    background: green;
     height: 100vw;
     display: flex;
     justify-content: space-between;
@@ -12,4 +11,18 @@
     margin-left: 10vw;
     text-align: center;
 
+}
+
+.title-d1, h1{
+    color: #444241 ;
+    font-size: 8vw;
+    font-weight:500;
+}
+.obj{
+    color:#FE914E ;
+}
+#pato{
+    width: 55vw;
+    margin-left: 20vw;
+    margin-bottom: 12vw;
 }
