@@ -8,6 +8,7 @@ import { EmpresaComponent } from './Pages/empresa/empresa.component';
 import { HeaderComponent } from './Components/header/header.component';
 import { WelcomeComponent } from './Components/welcome/welcome.component';
 import { DescriptionComponent } from './Components/description/description.component';
+import { PrestadorComponent } from './Components/prestador/prestador.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { DescriptionComponent } from './Components/description/description.compo
     EmpresaComponent,
     HeaderComponent,
     WelcomeComponent,
-    DescriptionComponent
+    DescriptionComponent,
+    PrestadorComponent
   ],
   imports: [
     BrowserModule,
