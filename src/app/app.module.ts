@@ -9,6 +9,8 @@ import { HeaderComponent } from './Components/header/header.component';
 import { WelcomeComponent } from './Components/welcome/welcome.component';
 import { DescriptionComponent } from './Components/description/description.component';
 import { PrestadorComponent } from './Components/prestador/prestador.component';
+import { ClienteComponent } from './Components/cliente/cliente.component';
+import { AplicativoComponent } from './Components/aplicativo/aplicativo.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +19,9 @@ import { PrestadorComponent } from './Components/prestador/prestador.component';
     HeaderComponent,
     WelcomeComponent,
     DescriptionComponent,
-    PrestadorComponent
+    PrestadorComponent,
+    ClienteComponent,
+    AplicativoComponent
   ],
   imports: [
     BrowserModule,
