@@ -11,6 +11,7 @@ import { DescriptionComponent } from './Components/description/description.compo
 import { PrestadorComponent } from './Components/prestador/prestador.component';
 import { ClienteComponent } from './Components/cliente/cliente.component';
 import { AplicativoComponent } from './Components/aplicativo/aplicativo.component';
+import { HommeiComponent } from './hommei/hommei.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { AplicativoComponent } from './Components/aplicativo/aplicativo.componen
     DescriptionComponent,
     PrestadorComponent,
     ClienteComponent,
-    AplicativoComponent
+    AplicativoComponent,
+    HommeiComponent
   ],
   imports: [
     BrowserModule,

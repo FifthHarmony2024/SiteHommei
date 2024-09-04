@@ -1,0 +1,23 @@
+#hommei1{
+  height: 100vw;
+  background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+  display: flex;
+  justify-content: space-evenly;
+  border: solid green 1px;
+}
+
+.title1{
+  border: solid green 1px;
+  width: 70vw;
+  height: 15vw;
+  margin-top: 5vw;
+}
+
+.title1, h1 {
+  color: white;
+  font-size: 8vw;
+  line-height: 9vw;
+  font-weight:500;
+}
+
+

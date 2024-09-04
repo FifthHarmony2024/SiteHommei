@@ -1,0 +1,13 @@
+#Apliacativo1{
+  height: 170vw;
+  display: flex;
+  justify-content: space-evenly;
+  border: solid green 1px;
+}
+
+#teste
+{
+  font-size: 5vw;
+  color: black;
+  z-index: 99;
+}
