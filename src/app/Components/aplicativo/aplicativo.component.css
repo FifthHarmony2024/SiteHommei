@@ -1,13 +1,45 @@
 #Apliacativo1{
-  height: 170vw;
+  height: 190vw;
   display: flex;
-  justify-content: space-evenly;
-  border: solid green 1px;
 }
 
-#teste
+.title1{
+  width: 75vw;
+  margin-left: 12.4vw;
+  text-align: center;
+  margin-top: 5vw;
+  margin-bottom: 2vw;
+}
+h1{
+  color: #444241;
+  font-size: 8vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-bottom: 2vw;
+}
+span{
+  color:  #FE914E;
+}
+
+#carousel1{
+  width: 82vw;
+  margin-left: 8vw;
+}
+.carousel-inner{
+  width: 62vw;
+  margin-left: 10vw;
+
+}
+.carousel-control-next{
+  margin-left:10vw ;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  transition: 0.4s;
+  border-radius: 12vw;
+  background-color:#FE914E;
+}
+h2
 {
-  font-size: 5vw;
-  color: black;
-  z-index: 99;
+  margin-top: 3vw;
+  margin-left: 6vw;
 }
