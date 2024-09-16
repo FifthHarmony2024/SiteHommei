@@ -1,0 +1,46 @@
+#hommei1{
+  height: 140vw;
+  display: flex;
+  border: solid green 1px;
+  justify-content: center;
+}
+.org1{
+  width: 90vw;
+  height: 124vw;
+  border-radius: 10vw;
+  background-image:linear-gradient(to bottom, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+  margin-top: 10vw;
+
+}
+.title1{
+  width: 75vw;
+}
+h1{
+  color: white ;
+  font-size: 8vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-top: 7vw;
+  margin-bottom: auto;
+}
+
+.dimg1{
+  margin-top: 5vw;
+  margin-left: 20px;
+}
+.dimg1 .img1{
+  width: 90vw;
+
+}
+.text{
+  width:330px;
+  margin-top: 6vw;
+  margin-left: 6vw;
+}
+.text p{
+  font-size: 5vw;
+  color: white ;
+  text-align: center;
+  line-height: 7vw;
+
+}

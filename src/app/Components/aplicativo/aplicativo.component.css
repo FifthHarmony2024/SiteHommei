@@ -1,5 +1,5 @@
 #Apliacativo1{
-  height: 190vw;
+  height: 200vw;
   display: flex;
 }
 
@@ -38,8 +38,21 @@ span{
   border-radius: 12vw;
   background-color:#FE914E;
 }
-h2
-{
+.carousel-control-prev-icon{
+  margin-right: 3vw;
+}
+.carousel-control-next-icon{
+  margin-left: 3vw;
+}
+
+.descripiton1{
+  text-align: center;
+}
+
+.descripiton1 h2{
   margin-top: 3vw;
-  margin-left: 6vw;
+}
+
+.descripiton1 p{
+  font-weight:500;
 }
