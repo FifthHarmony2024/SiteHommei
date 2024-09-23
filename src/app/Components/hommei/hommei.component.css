@@ -1,46 +1,46 @@
 #hommei1{
   height: 140vw;
   display: flex;
-  border: solid green 1px;
   justify-content: center;
 }
 .org1{
   width: 90vw;
-  height: 124vw;
+  height: 125vw;
   border-radius: 10vw;
   background-image:linear-gradient(to bottom, #4E40A2, #4E40A2, #7B68EE, #8773f3);
   margin-top: 10vw;
+  justify-items: center;
 
 }
 .title1{
-  width: 75vw;
+  margin-top: 4vw;
+  text-align: center;
 }
-h1{
+
+.Th1{
   color: white ;
   font-size: 8vw;
   line-height: 9vw;
   font-weight:500;
-  margin-top: 7vw;
-  margin-bottom: auto;
 }
-
 .dimg1{
+  text-align: center;
   margin-top: 5vw;
-  margin-left: 20px;
 }
 .dimg1 .img1{
-  width: 90vw;
+  border-radius:5vw;
+  width: 82vw;
 
 }
-.text{
-  width:330px;
+.text1{
+  width: 80vw;
   margin-top: 6vw;
-  margin-left: 6vw;
+  margin-left: 5vw;
 }
-.text p{
-  font-size: 5vw;
+.text1 .p1{
+  font-size: 4.4vw;
   color: white ;
-  text-align: center;
+  text-align: justify;
   line-height: 7vw;
 
 }

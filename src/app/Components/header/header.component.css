@@ -12,20 +12,16 @@
 }
 
 #header2{
-  background-image:linear-gradient(to right, #4E40A2, #4E40A2, #9485e9, #7B68EE);
-  height: 70px;
+  background-image:linear-gradient(to left, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+  height: 35vw;
 
 }
-.Logo2{
-  width: 65px ;
-  height: 65px;
-  margin: 2px 0px 0px 10px;
-}
+
 
 .name2{
-  width: 80px;
-  margin: 5px 3px 0px 10px;
-
+  width: 70vw;
+  margin-top: 8vw;
+  margin-left: 4vw;
 }
 
 #header3{

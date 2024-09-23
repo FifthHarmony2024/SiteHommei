@@ -1,0 +1,25 @@
+#footer1{
+    height: 60vw;
+    display: flex;
+    justify-content: center;
+    background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+
+}
+.org1{
+    justify-items: center;
+}
+.dlogo1{
+    margin-top: 4vw;
+    justify-items: center;
+}
+.logo1{
+    width: 40vw;
+}
+.fundadores1{
+    margin-top: 4vw;
+    text-align: center;
+}
+
+.Title1fund{
+    color: white;
+}
