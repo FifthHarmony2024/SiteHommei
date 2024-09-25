@@ -56,3 +56,63 @@ span{
 .descripiton1 p{
   font-weight:500;
 }
+
+
+#Apliacativo2{
+  height: 200vw;
+  display: flex;
+}
+
+.title2{
+  width: 70vw;
+  margin-left: 12.4vw;
+  text-align: center;
+  margin-top: 5vw;
+  margin-bottom: 2vw;
+}
+h1{
+  color: #444241;
+  font-size: 7vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-bottom: 2vw;
+}
+span{
+  color:  #FE914E;
+}
+
+#carousel2{
+  margin-top: 2vw;
+  width: 82vw;
+  margin-left: 15vw;
+  border: green solid 1px;
+}
+.carousel-inner{
+  width: 62vw;
+  margin-left: 10vw;
+
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  transition: 0.4s;
+  border-radius: 12vw;
+  background-color:#FE914E;
+}
+.carousel-control-prev-icon{
+  margin-right: 3vw;
+}
+.carousel-control-next-icon{
+}
+
+.descripiton2{
+  text-align: center;
+}
+
+.descripiton2 h2{
+  margin-top: 3vw;
+}
+
+.descripiton2 p{
+  font-weight:500;
+}
+
