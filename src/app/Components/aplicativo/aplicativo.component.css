@@ -1,9 +1,9 @@
-#Apliacativo1{
+#Apliacativo{
   height: 200vw;
   display: flex;
 }
 
-.title1{
+.title{
   width: 75vw;
   margin-left: 12.4vw;
   text-align: center;
@@ -21,7 +21,7 @@ span{
   color:  #FE914E;
 }
 
-#carousel1{
+#carousel{
   width: 82vw;
   margin-left: 8vw;
 }
@@ -45,26 +45,27 @@ span{
   margin-left: 3vw;
 }
 
-.descripiton1{
+.descripiton{
   text-align: center;
 }
 
-.descripiton1 h2{
+.descripiton h2{
   margin-top: 3vw;
 }
 
-.descripiton1 p{
+.descripiton p{
+  font-size: 3.2vw;
   font-weight:500;
 }
 
 
 #Apliacativo2{
-  height: 200vw;
+  height: 160vw;
   display: flex;
 }
 
 .title2{
-  width: 70vw;
+  width: 75vw;
   margin-left: 12.4vw;
   text-align: center;
   margin-top: 5vw;
@@ -72,36 +73,23 @@ span{
 }
 h1{
   color: #444241;
-  font-size: 7vw;
+  font-size: 6vw;
   line-height: 9vw;
   font-weight:500;
-  margin-bottom: 2vw;
+  margin-bottom: 4vw;
 }
 span{
   color:  #FE914E;
 }
 
 #carousel2{
-  margin-top: 2vw;
   width: 82vw;
-  margin-left: 15vw;
-  border: green solid 1px;
+  margin-left: 8vw;
 }
-.carousel-inner{
+.carousel2-inner{
   width: 62vw;
   margin-left: 10vw;
 
-}
-
-.carousel-control-prev-icon, .carousel-control-next-icon{
-  transition: 0.4s;
-  border-radius: 12vw;
-  background-color:#FE914E;
-}
-.carousel-control-prev-icon{
-  margin-right: 3vw;
-}
-.carousel-control-next-icon{
 }
 
 .descripiton2{
@@ -113,6 +101,10 @@ span{
 }
 
 .descripiton2 p{
-  font-weight:500;
+  font-size: 3.2vw;
+  font-weight:400;
 }
-
+#img2{
+  margin-left: 6vw;
+  width: 50vw;
+}

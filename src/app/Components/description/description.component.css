@@ -107,3 +107,59 @@
   margin-top: 1.7vw;
   font-size: 4vw;
 }
+
+
+#descrip3{
+  height: 140w;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.title-d3{
+  border: solid 1px white;
+  width: 80vw;
+  margin-top: 8vw;
+  margin-left: 10vw;
+  text-align: center;
+
+}
+
+.title-d3, h1{
+  color: #444241 ;
+  font-size: 7vw;
+  line-height: 9vw;
+  font-weight:500;
+}
+.obj3{
+  color:#FE914E ;
+}
+#pato3{
+  width: 50vw;
+  margin-left: 23vw;
+  margin-bottom: 12vw;
+}
+
+.sub-title3, .text3{
+  width: 80vw;
+  margin-left: 10vw;
+  margin-top: -5vw;
+  font-size:5vw;
+  text-align: center;
+
+}
+.sub-title3, p {
+  color:rgb(100, 99, 99);
+  font-weight:500;
+  line-height: 7vw;
+}
+.asc3{
+  color: #FE914E ;
+}
+
+.text3{
+width: 90vw;
+margin-left: 5vw;
+margin-top: 1.7vw;
+font-size: 4vw;
+}
