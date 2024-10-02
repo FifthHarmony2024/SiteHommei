@@ -50,6 +50,7 @@ span{
 }
 
 .descripiton h2{
+  font-size: 4vw;
   margin-top: 3vw;
 }
 
@@ -98,13 +99,72 @@ span{
 
 .descripiton2 h2{
   margin-top: 3vw;
+  font-size: 4.2vw;
+
 }
 
 .descripiton2 p{
   font-size: 3.2vw;
+  line-height: 4vw;
   font-weight:400;
 }
 #img2{
+  margin-left: 6vw;
+  width: 50vw;
+}
+
+
+
+
+#Apliacativo3{
+  height: 160vw;
+  display: flex;
+}
+
+.title3{
+  width: 75vw;
+  margin-left: 12.4vw;
+  text-align: center;
+  margin-top: 5vw;
+  margin-bottom: 2vw;
+}
+h1{
+  color: #444241;
+  font-size: 6vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-bottom: 4vw;
+}
+span{
+  color:  #FE914E;
+}
+
+#carousel3{
+  width: 82vw;
+  margin-left: 8vw;
+}
+.carousel3-inner{
+  width: 62vw;
+  margin-left: 10vw;
+
+}
+
+.descripiton3{
+  text-align: center;
+}
+
+.descripiton3 h2{
+  margin-top: 3vw;
+  font-size: 4.2vw;
+
+}
+
+.descripiton3 p{
+  font-size: 3.2vw;
+  line-height: 4vw;
+  font-weight:400;
+}
+#img3{
   margin-left: 6vw;
   width: 50vw;
 }

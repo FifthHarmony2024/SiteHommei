@@ -48,7 +48,6 @@
 
 #hommei2{
   height: 140vw;
-  display: flex;
   justify-content: center;
 }
 .org2{
@@ -56,14 +55,14 @@
   height: 125vw;
   border-radius: 10vw;
   background-image:linear-gradient(to bottom, #4E40A2, #4E40A2, #7B68EE, #8773f3);
-  margin-top: 10vw;
   justify-items: center;
-  margin-top: 1vw;
+  margin-left:4.7vw;
 
 }
 .title2{
   margin-top: 4vw;
   text-align: center;
+  border: solid rgba(0, 128, 0, 0) ;
 }
 
 .Th2{
@@ -71,10 +70,11 @@
   font-size: 8vw;
   line-height: 9vw;
   font-weight:500;
+  margin-top: 3vw;
 }
 .dimg2{
   text-align: center;
-  margin-top: 5vw;
+  margin-top: 2vw;
 }
 .dimg2 .img2{
   border-radius:5vw;

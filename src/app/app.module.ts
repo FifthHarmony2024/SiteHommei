@@ -13,6 +13,7 @@ import { ClienteComponent } from './Components/cliente/cliente.component';
 import { AplicativoComponent } from './Components/aplicativo/aplicativo.component';
 import { HommeiComponent } from './Components/hommei/hommei.component';
 import { FooterComponent } from './Components/footer/footer.component';
+import { MvvComponent } from './Components/mvv/mvv.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { FooterComponent } from './Components/footer/footer.component';
     AplicativoComponent,
     HommeiComponent,
     FooterComponent,
+    MvvComponent,
   ],
   imports: [
     BrowserModule,
