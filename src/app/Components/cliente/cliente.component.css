@@ -124,3 +124,46 @@ span{
   font-weight:500;
 
 }
+
+
+
+#Cliente4{
+  height: 120vw;
+  display: flex;
+  justify-content: space-between;
+}
+.title4{
+  width: 75vw;
+  margin-left: 12.4vw;
+  text-align: center;
+}
+h1{
+  color: #444241;
+  font-size: 8vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-top: 7vw;
+  margin-bottom: auto;
+}
+.sofa4{
+  margin-top: 5vw;
+  margin-left: 17vw;
+}
+.sofa4, img{
+  width: 65vw;
+}
+span{
+  color:  #FE914E;
+}
+.text4{
+  width: 88vw;
+  text-align: center;
+  margin-left: 5.6vw;
+  margin-top: 5vw;
+}
+.text4,p{
+  color: #5e5d5d ;
+  font-size: 5vw;
+  line-height: 6vw;
+  font-weight:500;
+}

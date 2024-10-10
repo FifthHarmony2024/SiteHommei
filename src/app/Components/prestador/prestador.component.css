@@ -249,3 +249,91 @@ p{
 }
 
 
+
+#prestador4{
+  height: 165vw;
+  background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+  margin-top: 5vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Title4{
+  height: 16vw;
+  border: rgba(255, 255, 255, 0) 1px solid ;
+  text-align: center;
+  margin-bottom: 5vw;
+}
+h1{
+  color: white ;
+  font-size: 8vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-top: 4vw;
+}
+.contato4{
+  margin-left: 7vw;
+  margin-right: 10vw;
+  display: flex;
+  margin-bottom: 13vw;
+  margin-top: 10vw;
+}
+.ct-img4{
+  width: 22vw;
+  margin-right: 3vw;
+
+}
+
+.celular4{
+  margin-left: 8vw;
+  margin-right: 9vw;
+  display: flex;
+  margin-top: -10px;
+  margin-bottom: 13vw;
+
+}
+.ce-img4{
+  margin-right: 6.2vw;
+  width: 17vw;
+}
+
+.raio4{
+  margin-left: 8vw;
+  margin-right: 9vw;
+  display: flex;
+  margin-bottom: 12vw;
+
+}
+
+.ra-img4{
+  width: 19vw;
+  margin-right: 5.2vw;
+
+}
+
+.sino4{
+  margin-left: 4.7vw;
+  margin-right: 9vw;
+  display: flex;
+  margin-bottom: 10vw;
+}
+
+.si-img4{
+  width: 24vw;
+  margin-right: 4vw;
+}
+
+h2{
+  color: white ;
+  font-size: 5vw;
+  margin-top: 2vw;
+  margin-bottom: 0;
+}
+p{
+  color:white;
+  font-size: 4.5vw;
+  line-height: 6.4vw;
+
+}
+
+

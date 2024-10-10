@@ -168,3 +168,57 @@ span{
   margin-left: 6vw;
   width: 50vw;
 }
+
+
+#Apliacativo4{
+  height: 160vw;
+  display: flex;
+}
+
+.title4{
+  width: 75vw;
+  margin-left: 12.4vw;
+  text-align: center;
+  margin-top: 5vw;
+  margin-bottom: 2vw;
+}
+h1{
+  color: #444241;
+  font-size: 6vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-bottom: 4vw;
+}
+span{
+  color:  #FE914E;
+}
+
+#carousel4{
+  width: 82vw;
+  margin-left: 8vw;
+}
+.carousel4-inner{
+  width: 62vw;
+  margin-left: 10vw;
+
+}
+
+.descripiton4{
+  text-align: center;
+}
+
+.descripiton4 h2{
+  margin-top: 3vw;
+  font-size: 4.2vw;
+
+}
+
+.descripiton4 p{
+  font-size: 3.2vw;
+  line-height: 4vw;
+  font-weight:400;
+}
+#img4{
+  margin-left: 6vw;
+  width: 50vw;
+}

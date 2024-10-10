@@ -15,14 +15,8 @@
 .logo1{
     width: 40vw;
 }
-.fundadores1{
-    margin-top: 4vw;
-    text-align: center;
-}
 
-.Title1fund{
-    color: white;
-}
+
 
 
 #footer2{
@@ -44,11 +38,48 @@
   margin-left: 29vw;
   margin-top: 3vw;
 }
-.fundadores2{
+
+
+
+
+#footer3{
+  height: 60vw;
+  display: flex;
+  justify-content: center;
+  background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+
+}
+.org3{
+  justify-items: center;
+}
+.dlogo3{
   margin-top: 4vw;
-  text-align: center;
+  justify-items: center;
+}
+.logo3{
+  width: 40vw;
+  margin-left: 29vw;
+  margin-top: 3vw;
 }
 
-.Title2fund{
-  color: white;
+
+
+#footer4{
+  height: 60vw;
+  display: flex;
+  justify-content: center;
+  background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+
+}
+.org4{
+  justify-items: center;
+}
+.dlogo4{
+  margin-top: 4vw;
+  justify-items: center;
+}
+.logo4{
+  width: 40vw;
+  margin-left: 29vw;
+  margin-top: 3vw;
 }
