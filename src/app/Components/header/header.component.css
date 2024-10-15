@@ -48,6 +48,16 @@
   margin-left: 4vw;
 }
 
+#header5{
+  background-image:linear-gradient(to left, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+  height: 12vw;
+}
+
+.name5{
+  width: 20vw;
+  margin-top: 4vw;
+  margin-left: 6vw;
+}
 
 
 

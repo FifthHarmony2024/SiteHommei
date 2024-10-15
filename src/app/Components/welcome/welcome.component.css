@@ -22,8 +22,8 @@
   width: 85vw;
   height: 50vw;
   margin-left: 6vw;
-  margin-bottom: 20vw;
-  margin-top: -6vw;
+  margin-bottom: 1vw;
+  margin-top: 6vw;
 
 }
 .text-w1, p{
@@ -80,8 +80,8 @@
   width: 85vw;
   height: 50vw;
   margin-left: 4vw;
-  margin-bottom: 20vw;
-  margin-top: -6vw;
+  margin-bottom: 1vw;
+  margin-top: 6vw;
 
 }
 .text-w1, p{
@@ -140,8 +140,8 @@
   width: 85vw;
   height: 50vw;
   margin-left: 4vw;
-  margin-bottom: 20vw;
-  margin-top: -6vw;
+  margin-bottom: 1vw;
+  margin-top: 6vw;
 
 }
 .text-w3, p{
@@ -200,8 +200,8 @@
   width: 85vw;
   height: 50vw;
   margin-left: 4vw;
-  margin-bottom: 20vw;
-  margin-top: -6vw;
+  margin-bottom: 1vw;
+  margin-top: 6vw;
 
 }
 .text-w4, p{
@@ -231,4 +231,91 @@
   transition: 0.5s;
   background-color: rgba(255, 255, 255, 0);
   border: solid 1px white;
+}
+
+#welcome5 {
+  background-image: linear-gradient(to left, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+  height: 36vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Para centralizar verticalmente */
+}
+
+.title5{
+  width: 43vw;
+  height: 12vw;
+  margin-left: 6vw;
+  color: white;
+  margin-bottom:5vw;
+}
+.ti5{
+  font-size: 4vw;
+  font-weight:500;
+  line-height: 5vw;
+}
+.text-w5{
+  width: 45vw;
+  height: 14vw;
+  margin-left: 6vw;
+  margin-bottom: 0vw;
+  
+}
+.tp5{
+  color: white;
+  text-align: left;
+  font-size: 1.8vw;
+  line-height: 2.9vw;
+  font-weight:400;
+}
+
+#button-s5{
+  width: 15vw;
+  height: 4vw;
+  margin-top: 2vw;
+  border-radius: 6vw;
+  border: 0px;
+  color: white;
+  background-color: #FE914E ;
+  transition: 0.5s;
+  font-size: 2vw;
+  font-weight:300;
+}
+
+#button-s5:hover{
+  width: 20vw;
+  transition: 0.5s;
+  background-color: rgba(255, 255, 255, 0);
+  border: solid 1px white;
+}
+#pato {
+  width: 30vw;
+  margin-left: 60vw; 
+  margin-top: -27vw; 
+}
+
+
+#info1 {
+  margin-top: 100vh; /* Para dar espaço e visualizar a rolagem */
+  background-color: #f0f0f0;
+}
+
+#info2{
+  margin-top: 100vh; /* Para dar espaço e visualizar a rolagem */
+  background-color: #f0f0f0;
+}
+
+#info3{
+  margin-top: 100vh; /* Para dar espaço e visualizar a rolagem */
+  background-color: #f0f0f0;
+}
+
+
+#info4{
+  margin-top: 100vh; /* Para dar espaço e visualizar a rolagem */
+  background-color: #f0f0f0;
+}
+
+#info5{
+  margin-top: 100vh; /* Para dar espaço e visualizar a rolagem */
+  background-color: #f0f0f0;
 }

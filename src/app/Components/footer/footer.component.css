@@ -1,85 +1,255 @@
 #footer1{
-    height: 60vw;
+    height: 52vw;
     display: flex;
     justify-content: center;
     background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
 
 }
 .org1{
-    justify-items: center;
+  width: 100vw;
 }
 .dlogo1{
     margin-top: 4vw;
-    justify-items: center;
 }
 .logo1{
     width: 40vw;
+  margin-left: 28vw;
+}
+.instaemail {
+  display: flex; /* Usa flexbox para alinhar os elementos lado a lado */
+
+}
+.orge1{
+  width: 34vw;
+  margin-left: 11vw;
+  margin-top: 2vw;
+}
+.email1{
+  width: 10vw;
+  margin-left: 12vw ;
+  margin-top: 5vw;
+  margin-bottom: 2.1vw;
+}
+hr {
+  border: none;            /* Remove a borda padrão */
+  height: 0.4vw;          
+  background-color: #ffff; 
+  margin: auto;
+}
+
+p{
+  font-size: 2.7vw;
+  color: white ;
+  text-align: justify;
+  line-height: 7vw;
+}
+.orgi1{
+  width: 30vw;
+  margin-top: 6vw;
+  margin-left: 10vw;
+}
+.insta1{
+  width: 9vw;
+  margin-left: 9.8vw;
+  margin-bottom: 2.1VW;
+}
+.instatext{
+  margin-left: 5vw;
+}
+
+.equipe{
+  margin-left:32vw;
 }
 
 
-
-
 #footer2{
-  height: 60vw;
+  height: 52vw;
   display: flex;
   justify-content: center;
   background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
 
 }
 .org2{
-  justify-items: center;
+width: 100vw;
 }
 .dlogo2{
   margin-top: 4vw;
-  justify-items: center;
 }
 .logo2{
   width: 40vw;
-  margin-left: 29vw;
-  margin-top: 3vw;
+margin-left: 28vw;
+}
+.instaemail2 {
+display: flex; /* Usa flexbox para alinhar os elementos lado a lado */
+
+}
+.orge2{
+width: 34vw;
+margin-left: 11vw;
+margin-top: 2vw;
+}
+.email2{
+width: 10vw;
+margin-left: 12vw ;
+margin-top: 5vw;
+margin-bottom: 2.1vw;
+}
+hr {
+border: none;            /* Remove a borda padrão */
+height: 0.4vw;          
+background-color: #ffff; 
+margin: auto;
 }
 
+p{
+font-size: 2.7vw;
+color: white ;
+text-align: justify;
+line-height: 7vw;
+}
+.orgi2{
+width: 30vw;
+margin-top: 6vw;
+margin-left: 10vw;
+}
+.insta2{
+width: 9vw;
+margin-left: 9.8vw;
+margin-bottom: 2.1VW;
+}
+.instatext2{
+margin-left: 5vw;
+}
 
-
+.equipe2{
+margin-left:32vw;
+}
 
 #footer3{
-  height: 60vw;
+  height: 52vw;
   display: flex;
   justify-content: center;
   background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
 
 }
 .org3{
-  justify-items: center;
+width: 100vw;
 }
 .dlogo3{
   margin-top: 4vw;
-  justify-items: center;
 }
 .logo3{
   width: 40vw;
-  margin-left: 29vw;
-  margin-top: 3vw;
+margin-left: 28vw;
+margin-top: 3vw;
+}
+.instaemail3 {
+display: flex; /* Usa flexbox para alinhar os elementos lado a lado */
+
+}
+.orge3{
+width: 34vw;
+margin-left: 11vw;
+margin-top: 2vw;
+}
+.email3{
+width: 10vw;
+margin-left: 12vw ;
+margin-top: 5vw;
+margin-bottom: 2.1vw;
+}
+hr {
+border: none;            /* Remove a borda padrão */
+height: 0.4vw;          
+background-color: #ffff; 
+margin: auto;
+}
+
+p{
+font-size: 2.7vw;
+color: white ;
+text-align: justify;
+line-height: 7vw;
+}
+.orgi3{
+width: 30vw;
+margin-top: 6vw;
+margin-left: 10vw;
+}
+.insta3{
+width: 9vw;
+margin-left: 9.8vw;
+margin-bottom: 2.1VW;
+}
+.instatext3{
+margin-left: 5vw;
+}
+
+.equipe3{
+margin-left:32vw;
 }
 
 
-
 #footer4{
-  height: 60vw;
+  height: 52vw;
   display: flex;
   justify-content: center;
   background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
 
 }
 .org4{
-  justify-items: center;
+width: 100vw;
 }
 .dlogo4{
   margin-top: 4vw;
-  justify-items: center;
 }
 .logo4{
   width: 40vw;
-  margin-left: 29vw;
-  margin-top: 3vw;
+margin-left: 28vw;
+margin-top: 3vw;
+}
+.instaemail4{
+display: flex; /* Usa flexbox para alinhar os elementos lado a lado */
+
+}
+.orge4{
+width: 34vw;
+margin-left: 11vw;
+margin-top: 2vw;
+}
+.email4{
+width: 10vw;
+margin-left: 12vw ;
+margin-top: 5vw;
+margin-bottom: 2.1vw;
+}
+hr {
+border: none;            /* Remove a borda padrão */
+height: 0.4vw;          
+background-color: #ffff; 
+margin: auto;
+}
+
+p{
+font-size: 2.7vw;
+color: white ;
+text-align: justify;
+line-height: 7vw;
+}
+.orgi4{
+width: 30vw;
+margin-top: 6vw;
+margin-left: 10vw;
+}
+.insta4{
+width: 9vw;
+margin-left: 9.8vw;
+margin-bottom: 2.1VW;
+}
+.instatext4{
+margin-left: 5vw;
+}
+
+.equipe4{
+margin-left:32vw;
 }

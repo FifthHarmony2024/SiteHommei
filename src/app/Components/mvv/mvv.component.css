@@ -1,8 +1,115 @@
 #Mvv1{
-  height: 100vw;
+  height: 160vw;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
   margin-bottom: 12vw;
-  border:solid 2px  #4E40A2;
+}
+.org1{
+  width: 85vw;
+  height: 170vw;
+  text-align: center;
+}
+
+.missao1, .visao1, .valores1{
+  margin-top: 10vw;
+  margin-bottom: 10vw;
+}
+.valores1{
+  margin-bottom: 0vw;
+}
+
+#Mvv2{
+  height: 160vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 0vw;
+}
+.org2{
+  width: 85vw;
+  height: 170vw;
+  text-align: center;
+  margin-left: 7vw;
+}
+
+.missao2, .visao2, .valores2{
+  margin-top: 10vw;
+  margin-bottom: 10vw;
+}
+.valores2{
+  margin-bottom: 0vw;
+}
+
+#Mvv3{
+  height: 160vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 0vw;
+}
+.org3{
+  width: 85vw;
+  height: 170vw;
+  text-align: center;
+  margin-left: 7vw;
+
+}
+
+.missao3, .visao3, .valores3{
+  margin-top: 10vw;
+  margin-bottom: 10vw;
+}
+.valores3{
+  margin-bottom: 0vw;
+}
+
+#Mvv4{
+  height: 160vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 0vw;
+}
+.org4{
+  width: 85vw;
+  height: 170vw;
+  text-align: center;
+  margin-left: 7vw;
+
+}
+
+.missao4, .visao4, .valores4{
+  margin-top: 10vw;
+  margin-bottom: 10vw;
+}
+.valores4{
+  margin-bottom: 0vw;
+}
+
+
+
+
+h1{
+  color: #4E40A2;
+  font-size: 8vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-bottom: 2vw;
+}
+p{
+  color: #5e5d5d ;
+  font-size: 4vw;
+  line-height: 6vw;
+  font-weight:500;
+}
+span{
+  color: #4E40A2;
+}
+
+hr {
+  border: none;            /* Remove a borda padrão */
+  height: 0.4vw;          
+  background-color: #FE914E; 
+  margin: 20px 0;        /* Espaçamento acima e abaixo da linha */
 }
