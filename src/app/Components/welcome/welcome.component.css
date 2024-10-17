@@ -258,7 +258,7 @@
   height: 14vw;
   margin-left: 6vw;
   margin-bottom: 0vw;
-  
+
 }
 .tp5{
   color: white;
@@ -289,8 +289,8 @@
 }
 #pato {
   width: 30vw;
-  margin-left: 60vw; 
-  margin-top: -27vw; 
+  margin-left: 60vw;
+  margin-top: -27vw;
 }
 
 
@@ -316,6 +316,7 @@
 }
 
 #info5{
+  margin-bottom: 10vw;
   margin-top: 100vh; /* Para dar espaço e visualizar a rolagem */
-  background-color: #f0f0f0;
+  background-color: #a81919;
 }

@@ -219,3 +219,45 @@ margin-left: 5vw;
 margin-top: 1.7vw;
 font-size: 4vw;
 }
+
+#descrip5{
+  height: 140w;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title-d5{
+  width: 80vw;
+  margin-top: 7vw;
+  margin-left: 10vw;
+  text-align: center;
+  margin-bottom: 3vw;
+
+}
+
+.title-d5, h1{
+  color: #444241 ;
+  font-size: 4vw;
+  line-height: 5vw;
+  font-weight:500;
+}
+.obj5{
+  color:#FE914E ;
+}
+
+.sub-title5, .text5{
+  width: 80vw;
+  margin-left: 10vw;
+  font-size:2vw;
+  text-align: center;
+
+}
+.sub-title4, p {
+  color:rgb(100, 99, 99);
+  font-weight:500;
+  line-height: 4vw;
+}
+.asc4{
+  color: #FE914E ;
+}
+

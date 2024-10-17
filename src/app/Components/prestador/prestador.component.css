@@ -337,3 +337,93 @@ p{
 }
 
 
+#prestador5{
+  height: 165vw;
+  background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+  margin-top: 5vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Title5{
+  height: 16vw;
+  border: rgba(255, 255, 255, 0) 1px solid ;
+  text-align: center;
+  margin-bottom: 5vw;
+}
+h1{
+  color: white ;
+  font-size: 6vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-top: 4vw;
+}
+.contato5{
+  margin-left: 5vw;
+  margin-right: 10vw;
+  display: flex;
+  margin-bottom: 13vw;
+  margin-top: 3vw;
+}
+.ct-img5{
+  width: 12vw;
+  height: 12vw;
+  margin-right: 3vw;
+
+}
+
+.celular5{
+  margin-left: 8vw;
+  margin-right: 9vw;
+  display: flex;
+  margin-top: -10px;
+  margin-bottom: 13vw;
+
+}
+.ce-img5{
+  margin-right: 6.2vw;
+  width: 14vw;
+  height: 16vw;
+  margin-bottom: -1vw;
+}
+
+.raio5{
+  margin-left: 8vw;
+  margin-right: 9vw;
+  display: flex;
+  margin-bottom: 12vw;
+
+}
+
+.ra-img5{
+  width: 19vw;
+  margin-right: 5.2vw;
+
+}
+
+.sino5{
+  margin-left: 4.7vw;
+  margin-right: 9vw;
+  display: flex;
+  margin-bottom: 10vw;
+}
+
+.si-img5{
+  width: 24vw;
+  margin-right: 4vw;
+}
+
+h2{
+  color: white ;
+  font-size: 4vw;
+  margin-top: 2vw;
+  margin-bottom: 0;
+}
+p{
+  color:white;
+  font-size: 3vw;
+  line-height: 6.4vw;
+
+}
+
+
