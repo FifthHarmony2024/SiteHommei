@@ -235,7 +235,7 @@ font-size: 4vw;
 
 }
 
-.title-d5, h1{
+.title-d5, .T5{
   color: #444241 ;
   font-size: 4vw;
   line-height: 5vw;
@@ -252,12 +252,12 @@ font-size: 4vw;
   text-align: center;
 
 }
-.sub-title4, p {
+.sub-title5, .P15 {
   color:rgb(100, 99, 99);
   font-weight:500;
   line-height: 4vw;
 }
-.asc4{
+.asc5{
   color: #FE914E ;
 }
 
