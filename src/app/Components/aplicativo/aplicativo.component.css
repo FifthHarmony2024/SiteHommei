@@ -222,3 +222,61 @@ span{
   margin-left: 6vw;
   width: 50vw;
 }
+
+
+#Apliacativo5{
+  height: 59vw;
+  display: flex;
+}
+
+.title5{
+  text-align: center;
+  margin-top: 5vw;
+  margin-bottom: 2vw;
+}
+.H5{
+  color: #444241;
+  font-size: 4.5vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-bottom: 4vw;
+}
+span{
+  color:  #FE914E;
+}
+
+#carousel5{
+  width: 80vw;  
+  margin-left: 10vw;
+  display: flex;
+  background-color: #ebeaead2;
+  border-radius: 10vw;
+
+}
+.carousel5-inner{
+  width: 80vw;
+}
+
+.descripiton5{
+  width: 40vw;
+  text-align: center;
+}
+
+.H52{
+  margin-top: 18vw;
+  margin-bottom: 2.2vw;
+  font-size: 3vw;
+
+}
+
+.P5{
+  font-size:2vw;
+  line-height: 3vw;
+  font-weight:400;
+}
+#img5{
+  width: 20vw;
+}
+.org{
+  display: flex;
+}

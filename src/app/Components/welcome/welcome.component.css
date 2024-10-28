@@ -268,25 +268,17 @@
   font-weight:400;
 }
 
-#button-s5{
-  width: 15vw;
-  height: 4vw;
-  margin-top: 2vw;
-  border-radius: 6vw;
-  border: 0px;
+
+#oi{
+  width: 18vw;
+  height: 3.5vw;
+  border-radius: 10vw;
+  border: 0;
+  background-color: #FE914E;
   color: white;
-  background-color: #FE914E ;
-  transition: 0.5s;
-  font-size: 2vw;
-  font-weight:300;
+  font-size: xx-large;
 }
 
-#button-s5:hover{
-  width: 20vw;
-  transition: 0.5s;
-  background-color: rgba(255, 255, 255, 0);
-  border: solid 1px white;
-}
 #pato {
   width: 30vw;
   margin-left: 60vw;
@@ -316,7 +308,6 @@
 }
 
 #info5{
-  margin-bottom: 10vw;
   margin-top: 100vh; /* Para dar espaço e visualizar a rolagem */
   background-color: #a81919;
 }

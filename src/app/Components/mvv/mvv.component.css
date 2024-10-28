@@ -89,7 +89,6 @@
 
 
 
-
 h1{
   color: #4E40A2;
   font-size: 8vw;
@@ -113,3 +112,59 @@ hr {
   background-color: #FE914E; 
   margin: 20px 0;        /* Espaçamento acima e abaixo da linha */
 }
+
+
+#Mvv5{
+  height:35vw;
+  display: flex;
+  justify-content: space-evenly;
+}
+.org5{
+  width: 85vw;
+  height: 20vw;
+  text-align: center;
+  margin-left: 8vw;
+  display: flex;
+}
+
+.missao5, .visao5, .valores5{
+  margin-bottom: 10vw;
+  margin-right: 4vw;
+
+}
+.missao5{
+  margin-left: 4vw;
+}
+.valores5{
+  margin-bottom: 0vw;
+}
+.T5{
+  color: #4E40A2;
+  font-size: 5vw;
+  font-weight:500;
+  margin-left: 30VW;
+}
+.H5{
+  color: #4E40A2;
+  font-size: 4vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-bottom:0 ;
+}
+.P5{
+  color: #5e5d5d ;
+  font-size: 1.3vw;
+  line-height: 2vw;
+  font-weight:500;
+}
+span{
+  color: #4E40A2;
+}
+
+hr {
+  border: none;            /* Remove a borda padrão */
+  height: 0.2vw;          
+  background-color: #FE914E; 
+  margin:20px;        /* Espaçamento acima e abaixo da linha */
+}
+

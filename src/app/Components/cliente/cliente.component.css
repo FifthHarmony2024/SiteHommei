@@ -167,3 +167,41 @@ span{
   line-height: 6vw;
   font-weight:500;
 }
+
+
+#Cliente5{
+  height: 55vw;
+  display: flex;
+  justify-content: space-between;
+}
+.title5{
+  height: 10vw;
+  text-align: center;
+}
+.H5{
+  color: #444241;
+  font-size: 4vw;
+  font-weight:500;
+  margin-top: 0;
+}
+.sofa5{
+  margin-top: 1vw;
+  margin-left: 32vw;
+}
+.sofa5, .img5{
+  width: 35vw;
+}
+span{
+  color:  #FE914E;
+}
+.text5{
+  width: 88vw;
+  text-align: center;
+  margin-left: 5.6vw;
+}
+.text5, .P5{
+  color: #5e5d5d ;
+  font-size: 3vw;
+  line-height: 4.2vw;
+  font-weight:500;
+}

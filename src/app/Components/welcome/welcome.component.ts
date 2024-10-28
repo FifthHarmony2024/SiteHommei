@@ -54,7 +54,7 @@ export class WelcomeComponent {
       });
     }
 
-    const button4 = document.getElementById('button-s5');
+    const button4 = document.getElementById('oi');
 
     if (button4) {
       button4.addEventListener('click', () => {

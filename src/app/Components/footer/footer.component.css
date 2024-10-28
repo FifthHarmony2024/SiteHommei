@@ -253,3 +253,73 @@ margin-left: 5vw;
 .equipe4{
 margin-left:32vw;
 }
+
+
+#footer5{
+  height: 36vw;
+  display: flex;
+  justify-content: center;
+  background-image:linear-gradient(to top, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+
+}
+.org51{
+  margin-top: 0;
+}
+.org5{
+  width: 100vw;
+}
+.dlogo5{
+  margin-top: 4vw;
+}
+.logo5{
+  width: 20vw;
+  margin-left: 38vw;
+  margin-top: 3vw;
+}
+.instaemail5{
+display: flex; /* Usa flexbox para alinhar os elementos lado a lado */
+
+}
+.orge5{
+width: 19.2vw;
+margin-left: 25vw;
+}
+.email5{
+width: 6vw;
+margin-left: 7vw ;
+margin-top: 5vw;
+margin-bottom: 2.1vw;
+}
+hr {
+border: none;            /* Remove a borda padrão */
+height: 0.2vw;          
+background-color: #ffff; 
+margin: auto;
+}
+
+.P5{
+font-size: 1.6vw;
+color: white ;
+text-align: justify;
+line-height: 7vw;
+}
+.orgi5{
+width: 19.2vw;
+margin-top: 5vw;
+margin-left: 10vw;
+}
+.insta5{
+width: 5vw;
+margin-left: 7vw;
+margin-bottom: 2.1VW;
+}
+.instatext5{
+  font-size: 1.6vw;
+  margin-left: 4vw;
+}
+
+.equipe5{
+  font-size: 1.6vw;
+  margin-left:39vw;
+  margin-bottom: 0;
+}

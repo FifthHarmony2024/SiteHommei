@@ -189,3 +189,53 @@
   line-height: 7vw;
 
 }
+
+
+#hommei5{
+  height: 45vw;
+  justify-content: center;
+}
+.org5{
+  width: 98vw;
+  height: 42vw;
+  border-radius: 8vw;
+  background-image:linear-gradient(to bottom, #4E40A2, #4E40A2, #7B68EE, #8773f3);
+  justify-items: center;
+  margin-left: 1vw;
+}
+.org51{
+  display: flex;
+}
+.titl5{
+  text-align: center;
+  border: solid rgba(0, 128, 0, 0) ;
+}
+
+.Th5{
+  color: white ;
+  font-size: 5vw;
+  line-height: 9vw;
+  font-weight:500;
+  margin-top: 3vw;
+}
+.dimg5{
+  text-align: center;
+  margin-top: 2vw;
+}
+.dimg5 .img5{
+  border-radius:5vw;
+  width: 40vw;
+
+}
+.text5{
+  width: 40vw;
+  margin-top: 5vw;
+  margin-left: 4vw;
+}
+.text5 .p5{
+  font-size: 2vw;
+  color: white ;
+  text-align: justify;
+  line-height: 4vw;
+
+}
