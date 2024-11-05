@@ -196,8 +196,6 @@
   justify-content: center;
 }
 .org5{
-  width: 98vw;
-  height: 42vw;
   border-radius: 8vw;
   background-image:linear-gradient(to bottom, #4E40A2, #4E40A2, #7B68EE, #8773f3);
   justify-items: center;
@@ -222,7 +220,6 @@
 }
 .dimg5{
   text-align: center;
-  margin-top: 2vw;
 }
 .img5{
   border-radius:5vw;

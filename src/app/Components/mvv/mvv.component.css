@@ -108,8 +108,8 @@ span{
 
 hr {
   border: none;            /* Remove a borda padrão */
-  height: 0.4vw;          
-  background-color: #FE914E; 
+  height: 0.4vw;
+  background-color: #FE914E;
   margin: 20px 0;        /* Espaçamento acima e abaixo da linha */
 }
 
@@ -163,8 +163,8 @@ span{
 
 hr {
   border: none;            /* Remove a borda padrão */
-  height: 0.2vw;          
-  background-color: #FE914E; 
+  height: 0.2vw;
+  background-color: #FE914E;
   margin:20px;        /* Espaçamento acima e abaixo da linha */
 }
 
