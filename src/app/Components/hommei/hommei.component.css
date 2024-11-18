@@ -196,6 +196,8 @@
   justify-content: center;
 }
 .org5{
+  width: 96vw;
+  height: 43vw;
   border-radius: 8vw;
   background-image:linear-gradient(to bottom, #4E40A2, #4E40A2, #7B68EE, #8773f3);
   justify-items: center;
@@ -215,7 +217,6 @@
   font-size: 5vw;
   line-height: 9vw;
   font-weight:500;
-  margin-top: 3vw;
   margin-left: 30vw;
 }
 .dimg5{
