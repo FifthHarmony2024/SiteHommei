@@ -246,7 +246,7 @@ span{
 }
 
 #carousel5{
-  width: 80vw;  
+  width: 80vw;
   margin-left: 10vw;
   display: flex;
   background-color: #ebeaead2;
@@ -273,6 +273,7 @@ span{
   font-size:2vw;
   line-height: 3vw;
   font-weight:400;
+  margin-left: 2vw ;
 }
 #img5{
   width: 20vw;
